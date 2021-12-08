@@ -1,4 +1,4 @@
-import taskThree.Task
+import taskFour.Task
 
 fun main() {
     Task.partTwo()
